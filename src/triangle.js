@@ -15,5 +15,3 @@ Triangle.prototype.checkType = function() {
     return "isosceles triangle";
   }
 };
-
-
